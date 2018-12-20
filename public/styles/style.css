@@ -1,0 +1,29 @@
+body > div {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#home_page {
+    width: 100vw;
+    height: 100vh;
+    /* background: url("https://file.videopolis.com/D/9dc9f4ba-0b2d-4cbb-979f-fee7be8a4198/8485.11521.brussels.the-hotel-brussels.amenity.restaurant-AD3WAP2L-13000-853x480.jpeg"); */
+}
+.restaurent_img { 
+    width: 20%;
+    height: 20%;
+}
+.required {
+    color: red;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.margin_bottom {
+    margin-bottom: 2%;
+}
+
+.center-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
