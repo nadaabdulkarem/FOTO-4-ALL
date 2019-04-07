@@ -1,7 +1,7 @@
 # YOUR-TABLE
 
 ## About:
-YouTable is a restaurant reservation app, the help making reservation before going to restauant.
+YouTable is a restaurant reservation app, the help making reservation before going to restaurant.
 
 ## User stories:
 - As user I would like to make restaurant reservation before I went to restaurant.
